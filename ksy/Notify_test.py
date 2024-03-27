@@ -1,2 +1,2 @@
 print("hello test success?")
-# print("1")
+print("1")
